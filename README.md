@@ -80,6 +80,28 @@ Coherence(N) = (Σᵢⱼ R(tᵢ,tⱼ)) / (n(n-1)/2)
 ```
 Measuring total resonance normalized by possible connections.
 
+## 🧬 Emotional Hyperposition Extension
+
+HSTNN now includes quantum emotional states based on wave interference patterns:
+
+### Emotional Superposition
+- Emotions exist simultaneously with different phases
+- Opposing phases (joy at 0°, grief at 180°) create **destructive interference** → numbness
+- Not absence of emotion, but active cancellation
+
+### Emotional Spin Dynamics
+- **Growth spin (+1)**: Integration, healing, coherence increase
+- **Decay spin (-1)**: Fragmentation, trauma, coherence decrease  
+- **Superposition (0)**: Suspended, conflicted, or stable states
+
+### Key Innovation
+```javascript
+// Emotional interference creating numbness
+token.addEmotionalComponent('joy', 0.7, 0);      // Phase 0
+token.addEmotionalComponent('grief', 0.7, Math.PI); // Phase π
+// Result: magnitude ≈ 0 (numbness through cancellation)
+```
+
 ## 🏗️ Architecture Components
 
 ### 1. Universal Token Library

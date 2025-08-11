@@ -1,0 +1,34 @@
+{
+  "name": "hyperposition-skiptrace-nn",
+  "version": "0.1.0",
+  "description": "A biologically-inspired neural network architecture for non-sequential language processing",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/core/HSTNNProcessor.test.js",
+    "demo": "node src/demo.js",
+    "dev": "node --watch src/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreatPyreneseDad/-HyperPosition_SKiPTRACE_nueralnetwork.git"
+  },
+  "keywords": [
+    "neural-network",
+    "nlp",
+    "hyperposition",
+    "skip-trace",
+    "biological-computing",
+    "cognitive-architecture"
+  ],
+  "author": "GreatPyreneseDad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreatPyreneseDad/-HyperPosition_SKiPTRACE_nueralnetwork/issues"
+  },
+  "homepage": "https://github.com/GreatPyreneseDad/-HyperPosition_SKiPTRACE_nueralnetwork#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {}
+}
